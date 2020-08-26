@@ -164,6 +164,21 @@ header#cabecalho-artigo h1{
     text-align: right;
 }
 
+div#tv-radio-principal {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+
+video#videoprincipal {
+    display: block;
+    position: relative;
+    left: -100px ;
+    top: -5px;
+    width: 500px;
+
+}
+
 header#cabecalho-artigo h2{
     font-size: 13pt;
     color: #cecece;
@@ -241,6 +256,21 @@ aside#lateral h2 {
     font-size: 13pt;
     color: #ffffff;
     padding: 5px;
+}
+
+div#tv-radio-novidade {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+video#video-aside {
+    display: block;
+    position: relative;
+    left: -75px ;
+    top: -5px;
+    width: 350px;
+
 }
 
 footer#rodape {
